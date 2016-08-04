@@ -1,0 +1,30 @@
+_repo: Buttered-Side-Down--Stories_352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: ''
+gutenberg_issued: '1995-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The frog and the puddle -- The man who came back -- What she wore
+  -- A bush league hero -- The kitchen side of the door -- One of the old girls --
+  Maymeys from Cuba -- The leading lady -- That home-town feeling -- The homely heroine
+  -- Sun dried -- Where the car turns at 18th.
+title: 'Buttered Side Down: Stories'
+url: http://www.gutenberg.org/ebooks/352
